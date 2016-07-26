@@ -11,6 +11,7 @@ margin-right: 1em;
 
 p {
 font-size: 18px;
+padding: 10px;
 
 }
 
@@ -136,4 +137,10 @@ background: #126d9b  ;
 #sidebox {
   border: solid black;
 }
+
+.carousel-control.right {
+  background-image: rgba(251, 1, 1, 0.5) 100%);;
+}
+
+
 
